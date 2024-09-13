@@ -10,7 +10,7 @@
 
 ## Installation Steps
 
-1. Clone the repository: `git clone https://github.com/BalajiBhise/todo.git`
+1. Clone the repository: `git clone https://github.com/BalajiBhise/UploadReel.git`
 2. Install dependencies: `composer install`
 4. Create a new database(reel) and update the `.env` file with your database credentials
 5. Run migrations: `php artisan migrate`
